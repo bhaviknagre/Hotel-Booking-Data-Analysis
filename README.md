@@ -36,9 +36,9 @@ This project focuses on performing an Exploratory Data Analysis (EDA) of hotel b
 
 #  Visualizations
 
-Booking Trends: A time series plot showing bookings over months.
-Cancellations by Lead Time: Bar plot showing the relationship between lead time and cancellation rates.
-Customer Segmentation: Pie chart showing customer demographics or preferences.
+- Booking Trends: A time series plot showing bookings over months.
+- Cancellations by Lead Time: Bar plot showing the relationship between lead time and cancellation rates.
+- Customer Segmentation: Pie chart showing customer demographics or preferences.
 
 
 # Link To Dashboard
