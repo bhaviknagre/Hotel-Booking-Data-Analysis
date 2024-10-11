@@ -46,6 +46,10 @@ This project focuses on performing an Exploratory Data Analysis (EDA) of hotel b
 [View Tableau Dashboard](https://public.tableau.com/app/profile/bhavik.nagre/viz/endcourseassignment/Dashboard2)
 https://public.tableau.com/app/profile/bhavik.nagre/viz/endcourseassignment/Dashboard2
 
+# Dashboard Visual
+![Insights](hootel_booking.png )
+
+
 
 # Technologies Used 
 
