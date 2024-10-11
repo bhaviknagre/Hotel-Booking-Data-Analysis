@@ -48,7 +48,7 @@ https://public.tableau.com/app/profile/bhavik.nagre/viz/endcourseassignment/Dash
 
 # Dashboard Visual
 
-[View Tableau Dashboard](hotel_booking.png )
+![View Tableau Dashboard](hotel_booking.png )
 
 
 
